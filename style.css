@@ -1,0 +1,9 @@
+.heading {
+    color: azure;
+    font-weight: bold;
+
+}
+#start , #status {
+    border-radius: 12px;
+    font-weight: bold;
+}
