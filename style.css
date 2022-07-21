@@ -19,3 +19,8 @@ footer{
 body {
     height: 800px;
 }
+canvas {
+    border-radius: 12px;
+    border: dotted red ;
+    box-shadow: 10px 10px 5px grey;
+}
